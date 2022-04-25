@@ -9,8 +9,10 @@ https://www.youtube.com/watch?v=OhWqfZPrQ9c&ab_channel=RoundTableKnights-Topic
 
 Highly recommend listening to this tune while playing around with the app 🎵
 
-It is is just a simple game of puzzle, you have to che\ange pieces inbetween them in order to get to the final shape.
+It is just a simple game of puzzle, you have to change pieces in between them in order to get to the final shape.
+
 Press on one piece to make it active, then press on another piece to switch them around.
 
 Once you finish the puzzle, you will have unlocked the ultimate vibe, and you are ready for the summer 🏖️
+
 Enjoy :)
