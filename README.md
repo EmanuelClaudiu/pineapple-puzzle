@@ -1,6 +1,9 @@
 # Pineapple Puzzle
 ## Some Summer Vibes
 
+
+![Pineapple Preview](./src/assets/PINEAPPLE.png)
+
 This little project has been inspired by this mix right here:
 https://www.youtube.com/watch?v=OhWqfZPrQ9c&ab_channel=RoundTableKnights-Topic
 
