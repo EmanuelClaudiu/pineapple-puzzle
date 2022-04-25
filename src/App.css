@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 120px;
+    color: #B2D674;
+    -webkit-text-stroke: 4px #FEDC14;
+    height: 100vh;
+}
+
+@media only screen and (max-width: 900px) {
+    .container {
+        font-size: 80px;
+    }
+}
+
+@media only screen and (max-width: 588px) {
+    span {
+        display: none;
+    }
+}
+
+.sideText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
